@@ -97,7 +97,7 @@ function App() {
 
   return (
     <div className="deepseek" style={{ maxWidth: "600px", margin: "auto", padding: "0px" }}>
-      <h2>Coba ah... (Ollama + Deepseek R1)</h2>
+      <h2>DeepSeek WebUI (Ollama + Deepseek R1)</h2>
       <div
         className="message"
         style={{

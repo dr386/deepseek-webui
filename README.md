@@ -106,12 +106,10 @@ Usage
 -----
 
 1.  Open the **React UI** in your browser.
-    
 2.  Type a message and send it.
-    
 3.  The response will stream in **real-time**.
-    
 4.  The chat maintains **conversation memory** for better context understanding.
+5.  This is tested on Intel i7 12700H with 16GB ram and RTX3060 (CUDA) with very smooth experience
     
 
 Customizing Model

@@ -25,7 +25,7 @@ app.post("/chat", async (req, res) => {
     chatHistory.push({ role: "user", content: message });
 
     // Send full history to Deepseek R1
-    const stream = await ollama.chat({ model: "deepseek-r1:7b", messages: chatHistory, stream: true });
+    const stream = await ollama.chat({ model: "deepseek-r1:8b", messages: chatHistory, stream: true });
 
     let botReply = "";
 

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "lucide-react": "^0.475.0",
+    "markdown-to-jsx": "^7.7.3"
+  }
+}

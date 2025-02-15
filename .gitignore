@@ -128,9 +128,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-
-# dockerfile
-Dockerfile
-docker-compose.yml
-ui/Dockerfile
-server/Dockerfile
